@@ -4,7 +4,7 @@ include $(INCLUDE_DIR)/kernel.mk
 PKG_NAME:=qemu
 PKG_VERSION:=2.5.0
 PKG_RELEASE:=1
-PKG_MD5SUM:=f90c9a0c8b259aee2234c4e0d7fd70af
+PKG_MD5SUM:=f469f2330bbe76e3e39db10e9ac4f8db
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.bz2
 PKG_SOURCE_URL:=http://wiki.qemu-project.org/download/$(PKG_SOURCE)
